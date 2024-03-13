@@ -26,4 +26,4 @@ _**Business Analytics**_ (generar insights, conclusiones que permiten entender y
 
 _**Machine Learning**_ (Desarrollar un modelo de ML que automatize la predicción de la fuga de futuros empleados)
 
-_**Productivización**_ (Crearé un producto de datos, en este caso un dashboard en Tableau, sobre las conclusiones y los recursos que hemos generado en las dos fases anteriores)
+_**Productivización**_ (Crearé un producto de datos, en este caso un dashboard en Tableau, sobre las conclusiones y los recursos que hemos generado en las dos fases anteriores, para que el director de RRHH pueda ver ésta información y sacar sus propias conclusiones para tomar medidas)
