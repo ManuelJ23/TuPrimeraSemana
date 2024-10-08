@@ -29,6 +29,6 @@ _**Machine Learning**_ (Desarrollar un modelo de ML que automatize la predicció
 _**Productivización**_ (Crearé un producto de datos, en este caso un dashboard en Tableau, sobre las conclusiones y los recursos que hemos generado en las dos fases anteriores, para que el director de RRHH pueda ver ésta información y sacar sus propias conclusiones para tomar medidas)
 
 
-[![Link Dashboard]([https://public.tableau.com](https://public.tableau.com/views/DashboardFugadeEmpleados_17102490877950/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link))
+[![Link Dashboard]([https://public.tableau.com](https://public.tableau.com/views/DashboardFugadeEmpleados_17102490877950/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link))](https://public.tableau.com/views/DashboardFugadeEmpleados_17102490877950/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 
